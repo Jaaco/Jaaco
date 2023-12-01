@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jaaco
-- 👀 I’m interested in Mobile App Design and AI
-- 🌱 I’m currently learning Flutter and Python
-- 💞️ I’m looking to collaborate on any App Ideas
+- 👋 Hi, I’m Jacob
+- 👀 I’m interested in Full Stack App Development
+- 🌱 I love writing Dart code
 - 📫 How to reach me jacob.aschenwald@gmail.com
 
 <!---
